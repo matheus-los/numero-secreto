@@ -1,0 +1,6 @@
+alguns codigos do git para lembrar
+git init
+git add
+git branch
+git push
+git remote
