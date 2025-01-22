@@ -1,7 +1,7 @@
 alguns codigos do git para lembrar
 git init
-git add
-git branch
-git push
+git add (adiciona o arquivo)
+git branch (seleciona a ramificacao)
+git push (atualiza o arquivo no GitHub)
 git remote
-teste de commit
+git commit (adiciona a mensagem de commit no arquivo)
