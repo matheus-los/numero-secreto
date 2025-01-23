@@ -3,5 +3,8 @@ git init
 git add (adiciona o arquivo)
 git branch (seleciona a ramificacao)
 git push (atualiza o arquivo no GitHub)
-git remote
+git remote (mostra qual o repositorio remoto que está sendo atualizado)
 git commit (adiciona a mensagem de commit no arquivo)
+git pull (puxa os arquivos alterados para o repositorio local em caso de colaboração de outra pessoa)
+git log (informa no terminal quais as alterações feitas)
+git status (mostra os arquivos que foram alterados e se já foram salvos ou não para encaminhar para o GitHub)
