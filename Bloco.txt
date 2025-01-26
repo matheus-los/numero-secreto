@@ -9,4 +9,3 @@ git pull (puxa os arquivos alterados para o repositorio local em caso de colabor
 git log (informa no terminal quais as alterações feitas)
 git status (mostra os arquivos que foram alterados e se já foram salvos ou não para encaminhar para o GitHub)
 git config --global (configura qual usuario esta fazendo as alterações)
-git revert (revert commit realizado de acordo com o ID do mesmo)
