@@ -12,3 +12,5 @@ git status (mostra os arquivos que foram alterados e se já foram salvos ou não
 git config --global (configura qual usuario esta fazendo as alterações)
 git revert (revert commit realizado de acordo com o ID do mesmo)
 git reset --hard (apagar commit)
+.gitignore - comando usado para ignorar arquivos que não devem subir para o git
+    https://www.toptal.com/developers/gitignore - site para gerar informações para o arquivo gitignore
